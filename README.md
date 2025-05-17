@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saravanan 
 
-- 🎓 Student at SSN College of Engineering
+- 🎓 I'm a B.Tech Information Technology undergrad at SSN College of Engineering (2022–2026)
 - 🌱 Currently learning MERN Stack and Flutter
 - ⚙️ Tech Stack: React.js, Node.js, MongoDB, Flutter, Python
 - 📫 Email: saravananbalakrishnan.24@gmail.com
